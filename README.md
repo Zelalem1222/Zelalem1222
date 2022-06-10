@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Zelalem 
 
 <!--
 **Zelalem1222/Zelalem1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    const  zelalem = {
+      lookingFor: "Full-stack web developer" || "Software Engineer position",
+      stack: [JavaScript, React, Ruby],
+      status: ['Currently learning and looking for a new job opportunity],
+      languages: [Amharic, English]
+    }
